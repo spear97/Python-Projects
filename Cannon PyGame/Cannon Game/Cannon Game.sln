@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Cannon Game", "Cannon Game.pyproj", "{0424E6EE-1A71-44AC-B5FF-5ABB5AA049E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0424E6EE-1A71-44AC-B5FF-5ABB5AA049E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0424E6EE-1A71-44AC-B5FF-5ABB5AA049E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4C225B4-2CFB-4E8C-A53D-772FB32CD72C}
+	EndGlobalSection
+EndGlobal
